@@ -16,7 +16,6 @@ module FancyDance
     def take_a_bow
       "Thakn you, thank you.It was a pleasure to dance fro you all."
     end
-    
   end
   
   module Class Methods
