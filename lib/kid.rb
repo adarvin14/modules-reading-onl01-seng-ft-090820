@@ -3,6 +3,7 @@ require_relative './class_methods_module.rb'
 
 class Kid
 
+  extends MetaDancing
   include Dance
   
   attr_accessor :name
